@@ -1,0 +1,7 @@
+{
+  "name": "@theorylabs/hepius",
+  "version": "0.0.1",
+  "description": "Hepius - Greek God of Medicine. Provides Medication related API data used by Ethos",
+  "license": "MIT",
+  "private": true
+}

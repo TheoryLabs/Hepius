@@ -1,7 +1,21 @@
 {
   "name": "@theorylabs/hepius",
   "version": "0.0.1",
-  "description": "Hepius - Greek God of Medicine. Provides Medication related API data used by Ethos",
+  "description": "Hepius - Greek God of Medicine. Provides Medication related API data used by Ethos.",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheoryLabs/Hepius.git"
+  },
+  "author": {
+    "name" : "Branden Dane",
+    "email" : "Dane@TheoryLabs.dev",
+    "url" : "https://TheoryLabs.dev/"
+  }, 
+  "homepage": "https://github.com/TheoryLabs/Hepius#README",
+  "bugs": {
+    "url" : "https://github.com/TheoryLabs/Hepius/issues",
+    "email" : "Dane@TheoryLabs.dev"
+  }
 }
